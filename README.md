@@ -1,4 +1,4 @@
-# Ruboty::your_gem_class_name
+# Ruboty::BrainDictionary
 
 An Ruboty Handler + Actions to learn your key-value into brain.
 
