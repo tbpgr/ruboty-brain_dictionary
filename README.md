@@ -1,6 +1,6 @@
 # Ruboty::BrainDictionary
 
-An Ruboty Handler + Actions to learn your key-value into brain.
+A Ruboty Handler + Actions to learn your key-value into brain.
 
 [![Gem Version](https://badge.fury.io/rb/ruboty-brain_dictionary.svg)](http://badge.fury.io/rb/ruboty-brain_dictionary)
 
